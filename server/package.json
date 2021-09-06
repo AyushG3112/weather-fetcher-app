@@ -9,7 +9,7 @@
   "author": "Ayush Gupta",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.3",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "javascript-type-checker": "^0.2.1"
